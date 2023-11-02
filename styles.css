@@ -1,0 +1,185 @@
+header {
+  text-decoration: none;
+  color: inherit;
+
+  background-color: #000000;
+  padding: 30px;
+  text-align: center;
+
+  font-family: "Cardo", Times, serif;
+  font-size: 44px;
+  color: white;
+}
+
+
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+}
+
+.styled-text1 {
+  font-family: Baskerville, sans-serif;
+  font-size: 25px;
+  color: #333333;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 25vh;
+}
+
+.styled-text2 {
+  font-family: Baskerville, sans-serif;
+  font-size: 40px;
+  color: black;
+}
+
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.styled-text3 {
+  font-family: Baskerville, sans-serif;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+}
+
+.styled-text4 {
+  font-family: Baskerville, sans-serif;
+  font-size: 30px;
+  color: black;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+}
+
+.styled-textFOOT {
+  font-family: "Cardo", Times, serif;
+  font-size: 44px;
+  color: white;
+}
+
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+}
+
+.styled-textcontactus {
+  font-family: Baskerville, Times, serif;
+  font-size: 15px;
+  color: white;
+}
+
+.container {
+  display: flex;
+}
+
+
+
+.imagelastsupper {
+  width: 1293px;
+  height: 10;
+}
+
+.imageitisfinished {
+  width: 300px;
+  height: 30;
+}
+
+.imagelion {
+  width: 300px;
+  height: 30;
+}
+
+
+
+
+.imageproducttitle {
+  font-family: "Cardo", Times, serif;
+  font-size: 23px;
+  color: black;
+  margin-top: 5px;
+}
+
+.imagecaptionprice {
+  font-family: "Cardo", Times, serif;
+  font-size: 20px;
+  color: black;
+}
+
+.imageinstagram {
+  width: 30px;
+  height: auto;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+}
+
+.contact-info {
+  display: flex;
+}
+
+.styled-textcontactus {
+  font-family: Baskerville, Times, serif;
+  font-size: 15px;
+  color: white;
+  margin-right: 10px;
+  /* Add space between the links */
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+}
+
+
+
+footer {
+  background-color: black;
+  padding: 50px;
+  text-align: center;
+}
+
+footer p {
+  margin: 50;
+  font-size: 13px;
+  color: white;
+}
